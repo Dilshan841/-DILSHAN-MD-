@@ -68,7 +68,7 @@ ______________________________________
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ *Ytube:* _https://www.youtube.com/@BTSMODZ
 ║❒ *Owner:* https://wa.me/94772194789
-║❒ *Repo:* _https://github.com/Fearless-tech1_
+║❒ *Repo:* _https://github.com/Dilshan841/-DILSHAN-MD-/tree/main
 ║❒ *WaGroup:* _https://chat.whatsapp.com/C3GFThC0tIpGaJY9DFUeCK
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029VahusSh0QeaoFzHJCk2x
 ║❒ *Plugins:* _https://github.com/Fearless-tech1 
